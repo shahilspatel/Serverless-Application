@@ -9,17 +9,21 @@ Hosted a website using Amplify with HTML, CSS, Javascript, and image files which
 
 - <b>AWS S3</b> 
 
-- <b>AWS Cloudfront</b>
+- <b>AWS CodeCommit</b>
 
-- <b>AWS Certificate Manager</b>
+- <b>AWS Amplify</b>
 
 - <b>AWS Lambda</b>
 
 - <b>DynamoDB</b>
 
-- <b>Github Actions</b>
+- <b>Javascript</b>
 
-- <b>Terraform</b>
+- <b>Cognito</b>
+
+- <b>AWS SES</b>
+
+- <b>API Gateway</b>
 
 <h2>Environments Used </h2>
 
