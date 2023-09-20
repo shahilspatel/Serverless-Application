@@ -2,9 +2,7 @@
 
 
 <h2>Description</h2>
-One of the more commprehensive showcases of Cloud Computing Fundamentals is the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) developed by Forrest Brazeal. This is the implementation and documentation of the entire task to help improve my portfolio.
-
-
+Hosted a website using Amplify with HTML, CSS, Javascript, and image files which are loaded into the browser from an S3 bucket. JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway. Amazon Cognito provides user management and authentication functions to secure the backend API. DynamoDB provided a persistence layer where data can be stored by the API's Lambda function.
 
 
 <h2>Languages and Utilities Used</h2>
